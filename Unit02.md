@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV101: Job Search Skills"
+course_description: "A guide to information on how to target jobs and/or careers that are desirable and realistic for you and that fill a need for employers in today’s challenging job market."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Creating A Game Plan** <span id="2"></span> 
 *Now that you have a better idea of your personality type and the kinds
 of jobs or careers that might be a good fit for you, you are ready to

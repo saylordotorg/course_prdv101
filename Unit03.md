@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV101: Job Search Skills"
+course_description: "A guide to information on how to target jobs and/or careers that are desirable and realistic for you and that fill a need for employers in today’s challenging job market."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Stress Management** <span id="3"></span> 
 *The third and final unit in this course is entitled, “Stress
 Management.”  The research in the field of stress tells us that

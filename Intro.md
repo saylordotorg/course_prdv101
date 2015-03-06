@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV101: Job Search Skills"
+course_description: "A guide to information on how to target jobs and/or careers that are desirable and realistic for you and that fill a need for employers in today’s challenging job market."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PRDV101: Job Search Skills"
 ------------------------------------------------
 
