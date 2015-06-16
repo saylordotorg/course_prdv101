@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
@@ -14,5 +15,11 @@ previous: ../Unit03
     account in order to access this exam.  If you do not yet have an
     account, you will be able to create one, free of charge, after
     clicking the link. 
+=======
+##Unit 4: Final Exam
+**Final Exam: Saylor Academy's [PRDV101 Final Exam](http://school.saylor.org/mod/quiz/view.php?id=884)**
+
+Instructions: You must be logged into your Saylor Foundation School account in order to access this exam. If you do not yet have an account, you will be able to create one, free of charge, after clicking the link.
+>>>>>>> bf303b8db7fe033f6faf1262921c4d97bc235d63
 
 
