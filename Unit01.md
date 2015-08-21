@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
@@ -7,6 +10,7 @@ course_description: "A guide to information on how to target jobs and/or careers
 next: ../Unit02
 previous: ../Intro
 ---
+<<<<<<< HEAD
 **Unit 1: Getting Started** <span id="1"></span> 
 **While none of us know what our future holds, some of us take proactive
 steps to explore possibilities and opportunities open to us. 
@@ -20,6 +24,8 @@ Congratulations! You are beginning an exciting journey to turn
 daydreams into reality! In order to use your time productively, you
 >>>>>>> 472619f90b4a15204c496358fcdd4ae28b609629
 =======
+=======
+>>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
 **Unit 1: Getting Started** <span id="1"></span> 
 **While none of us know what our future holds, some of us take proactive
 steps to explore possibilities and opportunities open to us. 
