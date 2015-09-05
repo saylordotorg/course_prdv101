@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
 ---
@@ -26,6 +27,8 @@ daydreams into reality! In order to use your time productively, you
 =======
 =======
 >>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
+=======
+>>>>>>> adcb8d8f10015c61bc66f45f51f2f29f395fb753
 **Unit 1: Getting Started** <span id="1"></span> 
 **While none of us know what our future holds, some of us take proactive
 steps to explore possibilities and opportunities open to us. 
