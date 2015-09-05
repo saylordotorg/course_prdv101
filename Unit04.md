@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
