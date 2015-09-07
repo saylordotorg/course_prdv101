@@ -2,8 +2,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
+=======
+>>>>>>> 37227e1ccae07b86fd72b71389c9d8d938e5786d
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
@@ -11,6 +14,7 @@ course_description: "A guide to information on how to target jobs and/or careers
 next: ../Unit02
 previous: ../Intro
 ---
+<<<<<<< HEAD
 <<<<<<< HEAD
 **Unit 1: Getting Started** <span id="1"></span> 
 **While none of us know what our future holds, some of us take proactive
@@ -29,12 +33,13 @@ daydreams into reality! In order to use your time productively, you
 >>>>>>> 75877322118178f3308159e8f6ea4f44a8599401
 =======
 >>>>>>> adcb8d8f10015c61bc66f45f51f2f29f395fb753
+=======
+>>>>>>> 37227e1ccae07b86fd72b71389c9d8d938e5786d
 **Unit 1: Getting Started** <span id="1"></span> 
 **While none of us know what our future holds, some of us take proactive
 steps to explore possibilities and opportunities open to us. 
 Congratulations!  You are beginning an exciting journey to turn
 daydreams into reality!  In order to use your time productively, you
->>>>>>> fafe181cfd39811b78b7b5ae0a25cc7534e75bbe
 will need to learn more about yourself, your interests and personality,
 and how these factors relate to various types of jobs or careers.  This
 unit offers resources to address this self-knowledge.  For example, The
