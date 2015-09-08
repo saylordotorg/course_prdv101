@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
@@ -9,7 +8,6 @@ previous: ../Unit01
 **Unit 2: Creating A Game Plan** <span id="2"></span> 
 =======
 ##Unit 2: Creating A Game Plan
->>>>>>> 8418636d203915a859360be829ef6145281186ab
 *Now that you have a better idea of your personality type and the kinds
 of jobs or careers that might be a good fit for you, you are ready to
 begin your job search in earnest! This unit offers resources to apply
