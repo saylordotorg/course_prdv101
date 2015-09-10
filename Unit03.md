@@ -6,10 +6,7 @@ next: ../Unit04
 previous: ../Unit02
 ---
 **Unit 3: Stress Management** <span id="3"></span> 
-*The third and final unit in this course is entitled, “Stress
-Management.”  The research in the field of stress tells us that
-=======
-##Unit 3: Stress Management
+
 *The third and final unit in this course is entitled “Stress
 Management.” The research in the field of stress tells us that
 unhealthy levels of stress may be the single biggest factor in
