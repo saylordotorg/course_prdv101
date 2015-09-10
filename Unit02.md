@@ -6,8 +6,7 @@ next: ../Unit03
 previous: ../Unit01
 ---
 **Unit 2: Creating A Game Plan** <span id="2"></span> 
-=======
-##Unit 2: Creating A Game Plan
+
 *Now that you have a better idea of your personality type and the kinds
 of jobs or careers that might be a good fit for you, you are ready to
 begin your job search in earnest! This unit offers resources to apply
