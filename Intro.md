@@ -137,3 +137,4 @@ determine how to budget your time to complete each of the three units.
 - [Unit 2](https://legacy.saylor.org/prdv101/Unit02/)
 - [Unit 3](https://legacy.saylor.org/prdv101/Unit03/)
 - [Unit 4](https://legacy.saylor.org/prdv101/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV101/PRDV101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV101/PRDV101-FinalExam-Answers.html)
