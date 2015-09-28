@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: default
 title: "PRDV101: Job Search Skills"
@@ -7,13 +6,9 @@ next: ../Unit04
 previous: ../Unit02
 ---
 **Unit 3: Stress Management** <span id="3"></span> 
-*The third and final unit in this course is entitled, “Stress
-Management.”  The research in the field of stress tells us that
-=======
-##Unit 3: Stress Management
+
 *The third and final unit in this course is entitled “Stress
 Management.” The research in the field of stress tells us that
->>>>>>> 18d2508ce97db9d31701e10d2ee80a8679d2f7cf
 unhealthy levels of stress may be the single biggest factor in
 sabotaging our otherwise well-formulated job search plan. You have
 progressed through the steps of self-assessment and have explored
