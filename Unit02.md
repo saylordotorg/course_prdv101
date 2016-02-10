@@ -119,8 +119,7 @@ Terms of Use: This resource is in the public domain.
 Work”](http://www.drkit.org/successatwork/)videos
  (HTML)**
 
-To view informative videos on various careers, click on the link
-above. Select a career that might be of interest to you to learn
+To view informative videos on various careers, click on ["Career Videos"](http://www.drkit.org/careervideos/). Select a career that might be of interest to you to learn
 about a typical day for that employee, the qualifications required
 for the job, the employee’s description of their best and worst
 parts of the job, as well as additional helpful advice from the
