@@ -116,7 +116,7 @@ Terms of Use: This resource is in the public domain.
 
 ###2.5 Career Interviews
 **Web Media: Dr. Kit’s [“Success at
-Work”](http://www.drkit.org/success-at-work/work-videos/)videos
+Work”](http://www.drkit.org/successatwork/)videos
  (HTML)**
 
 To view informative videos on various careers, click on the link
